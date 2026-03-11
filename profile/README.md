@@ -3,12 +3,12 @@
 We build infrastructure and services for AI teams.
 
 
-### Services
 
 | Service | Description |
 | :--- | :--- |
 | [**Spektrum**](https://jigjoy.ai/spektrum) | Vibe coding SDK that generates applications from requests and returns a URL to the deployed app. |
 | [**Mozaik**](https://jigjoy.ai/mozaik) | TypeScript library for defining and orchestrating manual and autonomous AI workflows. |
+
 
 
 *JigJoy* is the rush of excitement you feel when something you built finally works — the moment you realize you made it. Our mission is to help everyone feel that moment.
