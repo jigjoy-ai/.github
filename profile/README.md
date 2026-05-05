@@ -10,5 +10,3 @@ We build infrastructure and services for AI teams.
 | [**Mozaik**](https://github.com/jigjoy-ai/mozaik) | Mozaik is a TypeScript framework for building non-blocking AI agents. |
 
 ---
-
-*JigJoy* is the rush of excitement you feel when something you built finally works — the moment you realize you made it. Our mission is to help everyone feel that moment.
