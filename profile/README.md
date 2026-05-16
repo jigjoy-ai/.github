@@ -1,14 +1,6 @@
-<p align="center">
-  <a href="https://github.com/jigjoy-ai/mozaik">
-    <img src="https://raw.githubusercontent.com/jigjoy-ai/.github/main/assets/mozaik-pin.svg" alt="mozaik" />
-  </a>
-  <a href="https://github.com/Lotus015/baro">
-    <img src="https://raw.githubusercontent.com/jigjoy-ai/.github/main/assets/baro-pin.svg" alt="baro" />
-  </a>
-  <a href="https://github.com/jigjoy-ai/spektrum-sdk">
-    <img src="https://raw.githubusercontent.com/jigjoy-ai/.github/main/assets/spektrum-pin.svg" alt="spektrum-sdk" />
-  </a>
-</p>
+<a href="https://jigjoy.ai">
+  <img src="https://raw.githubusercontent.com/jigjoy-ai/.github/main/assets/jigjoy-footer.svg" alt="JigJoy — Infrastructure and services for Gen AI teams" />
+</a>
 
 ```bash
 jigjoy@github:~$ whoami
@@ -78,8 +70,3 @@ home      → jigjoy.ai
 **Latest essay** → [Build Your Own CLI Agent: A Step-by-Step Guide](https://jigjoy.ai/blog/build-your-own-cli-agent/)
 <!-- BLOG:END -->
 
----
-
-<a href="https://jigjoy.ai">
-  <img src="https://raw.githubusercontent.com/jigjoy-ai/.github/main/assets/footer.svg" alt="JigJoy — Infrastructure and services for Gen AI teams" />
-</a>
