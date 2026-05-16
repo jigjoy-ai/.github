@@ -8,19 +8,19 @@ const UA = "jigjoy-org-readme-refresh/1.0";
 
 const PINNED = [
   {
+    owner: "jigjoy-ai",
+    repo: "mozaik",
+    description: "TS runtime · reactive agents on a shared event bus",
+    showOwner: false,
+    file: "assets/mozaik-pin.svg",
+  },
+  {
     owner: "Lotus015",
     repo: "baro",
     description:
       "CLI · parallel Claude Code agents as a DAG · opens a PR when done",
     showOwner: true,
     file: "assets/baro-pin.svg",
-  },
-  {
-    owner: "jigjoy-ai",
-    repo: "mozaik",
-    description: "TS runtime · reactive agents on a shared event bus",
-    showOwner: false,
-    file: "assets/mozaik-pin.svg",
   },
   {
     owner: "jigjoy-ai",
