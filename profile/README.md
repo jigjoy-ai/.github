@@ -1,4 +1,4 @@
 
 <a href="https://jigjoy.ai">
-  <img width="1128" height="312" alt="mozaik-linkedin-banner-build-agents-1128x312" src="https://github.com/user-attachments/assets/70fdeacb-6bb9-4fa4-9385-3a67c6cca780" alt="Infrastructure for concurrent AI agents" />
+  <img width="1740" height="904" alt="mozaik-banner-correct-logo" src="https://github.com/user-attachments/assets/0e0d633d-014c-4e9e-a333-2a4cd919c175" />
 </a>
