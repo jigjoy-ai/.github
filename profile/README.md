@@ -1,4 +1,4 @@
 
 <a href="https://jigjoy.ai">
-  <img width="1400" height="350" alt="1784793270318" src="https://github.com/user-attachments/assets/5c3b0778-0ba7-43df-af90-06ce71866b04" />
+  <img width="1280" height="640" alt="github-social" src="https://github.com/user-attachments/assets/7ce243fe-124a-410b-a2c0-577e27a367ce" />
 </a>
